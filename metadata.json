@@ -1,0 +1,6 @@
+{
+  "name": "Attendance Tracker",
+  "description": "Daily college attendance tracker with subject management, low attendance alerts, and overall statistics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
